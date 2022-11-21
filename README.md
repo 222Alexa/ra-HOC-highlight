@@ -17,3 +17,8 @@
 Используя HOC, обернуть `Video` и `Article` таким образом, чтобы при отображении в компоненте `List` они помещались внутрь требуемого компонента `Popular` или `New`.
 
 Воспользуйтесь готовым файлом `App.js` и стилями `css/index.css` из каталога в качестве отправной точки. Замените ими те, что создаются в create-react-app.
+
+
+---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/wbrfi1frdmngox64/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-hoc-highlight/branch/main)
